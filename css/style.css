@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  background-image: url('background.png');
+}
+.buttonlink{
+  text-decoration: none;
+  color: white;
+}
+.footer{
+  text-align: left;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 14px;
+}
+.head{
+  background-color: blue;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+
+}
+.left{
+  /*background-color: #f9f3ee;*/
+position: relative;
+width:90%;
+right: 0;
+padding: 5px;
+font-size: 30px;
+margin: 0 auto 0 auto;
+text-align: center;
+}
+.back{
+  /*background-color: #f9f3ee;*/
+  padding-bottom: 20px;
+}
+#cu{
+  position: absolute;
+  right: 10px;
+}
+hr{
+  border-top: 4px dashed green;
+
+}
+hr .font-effect-shadow-multiple {
+    color: #1a1818;
+    text-shadow: 0.04em 0.04em 0 #fffefe, 0.08em 0.08em 0 #aaa;}
+.img-services{
+  height: auto;
+  width: 30%;
+margin-top: 15px;
+margin-left: 15px;
+}
+
+.rates{
+  background-color: #3ccf4e;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+#serbutton{
+  position: absolute;
+  left: 40%;
+}
+.service{
+  background-color: white;
+width:90%;
+margin:0 auto 0 auto;
+border: 2px solid blue;
+color:#2f3a8f;
+}
+
+.top1{
+  display: block;
+  background-color: white;
+  border: 5px double black;
+  width:90%;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 20px;
+  border-left: none;
+  border-right: none;
+}
+.text{
+  margin: 0 auto 0 auto;
+  font-size: 52px;
+  display: inline-block;
+  position: relative;
+  bottom: 80px;
+  left: 30px;
+}
+.toolbar{
+  background-color: #eaf6f6;
+  border: 2px solid black;
+  border-left: none;
+  border-right: none;
+  padding: 30px 5px 30px 10px;
+}
+.tbuttons{
+  font-family: Artifika;
+  font-size: 32px;
+  display: inline-block;
+background-color: #8879b0;
+margin: 5px;
+padding: 5px;
+border: 3px solid black;
+text-decoration:none;
+}
